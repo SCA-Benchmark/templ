@@ -15,7 +15,7 @@
     "generate-llms-md": "find docs | grep '.*md$' | xargs cat > ./static/llms.md"
   },
   "dependencies": {
-    "@docusaurus/core": "^3.5.2",
+    "@docusaurus/core": "^3.6.3",
     "@docusaurus/preset-classic": "^3.5.2",
     "@docusaurus/theme-mermaid": "^3.5.2",
     "@mdx-js/react": "^3.0.1",
